@@ -25,3 +25,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NODE_ID: ${{ github.event.discussion.node_id }}
+https://special-sniffle-wvr75rpp6wg435q4j.github.dev/
